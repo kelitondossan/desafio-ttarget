@@ -1,0 +1,14 @@
+/home/keliton/Vídeos/desafio-ttarget/bin/Debug/net8.0/desafio-ttarget
+/home/keliton/Vídeos/desafio-ttarget/bin/Debug/net8.0/desafio-ttarget.deps.json
+/home/keliton/Vídeos/desafio-ttarget/bin/Debug/net8.0/desafio-ttarget.runtimeconfig.json
+/home/keliton/Vídeos/desafio-ttarget/bin/Debug/net8.0/desafio-ttarget.dll
+/home/keliton/Vídeos/desafio-ttarget/bin/Debug/net8.0/desafio-ttarget.pdb
+/home/keliton/Vídeos/desafio-ttarget/obj/Debug/net8.0/desafio-ttarget.GeneratedMSBuildEditorConfig.editorconfig
+/home/keliton/Vídeos/desafio-ttarget/obj/Debug/net8.0/desafio-ttarget.AssemblyInfoInputs.cache
+/home/keliton/Vídeos/desafio-ttarget/obj/Debug/net8.0/desafio-ttarget.AssemblyInfo.cs
+/home/keliton/Vídeos/desafio-ttarget/obj/Debug/net8.0/desafio-ttarget.csproj.CoreCompileInputs.cache
+/home/keliton/Vídeos/desafio-ttarget/obj/Debug/net8.0/desafio-ttarget.dll
+/home/keliton/Vídeos/desafio-ttarget/obj/Debug/net8.0/refint/desafio-ttarget.dll
+/home/keliton/Vídeos/desafio-ttarget/obj/Debug/net8.0/desafio-ttarget.pdb
+/home/keliton/Vídeos/desafio-ttarget/obj/Debug/net8.0/desafio-ttarget.genruntimeconfig.cache
+/home/keliton/Vídeos/desafio-ttarget/obj/Debug/net8.0/ref/desafio-ttarget.dll
